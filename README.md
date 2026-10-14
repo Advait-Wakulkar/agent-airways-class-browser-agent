@@ -6,6 +6,12 @@ This is the **shared student codebase** for our multi-week group project. We wil
 
 The website used for practice is [Agent Airways](https://onyourmark.github.io/browser-agent-form/travel/). It is a **simulation**. It does not purchase tickets or send a real reservation.
 
+## Start programming in class
+
+**Start with [START_PROGRAMMING.md](START_PROGRAMMING.md) and [practice_dropdown.py](practice_dropdown.py).**
+
+This is the first hands-on exercise. You will write Python code that changes the departure airport, destination, and passenger count on the real Agent Airways practice page. It needs only Playwright and Python, **not** Ollama or the language model. You may work on it while project partners are being assigned.
+
 ## Starting point
 
 This repository starts with a **working but deliberately limited** agent.
